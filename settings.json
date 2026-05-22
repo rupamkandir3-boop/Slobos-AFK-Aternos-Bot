@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "PREHUNT.aternos.me",
-    "port": 17001,
+    "port":17001,
     "version": "",
     "try-creative": false
   },
