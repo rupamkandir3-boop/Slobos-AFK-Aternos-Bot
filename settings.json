@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "PREHUNT.aternos.me",
-    "port":17001,
+    "ip": "124421my.aternos.me:22022",
+    "port":22022,
     "version": "",
     "try-creative": false
   },
